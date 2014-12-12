@@ -1,2 +1,2 @@
-sandwich-club
+Sandwich Club app
 =============
